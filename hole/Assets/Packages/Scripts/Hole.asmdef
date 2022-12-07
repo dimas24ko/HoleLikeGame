@@ -1,0 +1,17 @@
+{
+    "name": "Hole",
+    "rootNamespace": "Hole",
+    "references": [
+        "GUID:f9f635223c245c746b7c798a03630522",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
